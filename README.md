@@ -1,5 +1,4 @@
-# QuantiumDAVEP_Project
-**Quantium Data Analytics Virtual Experience Program on Forage**
+# **Quantium Data Analytics Virtual Experience Program on Forage**
 
 This project is based on the 
 [Data Analytics Virtual Experience Program on Forage](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics?ref=tvikfrytzCFR8k4Gy).
