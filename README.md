@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ShaunakS29/QuantiumDAVEP_Project/wiki/1.-Overview" target="_blank"><img src="https://img.shields.io/badge/-Overview-yellow" alt="Overview" height="30" width="100"></a>
 <a href="https://github.com/ShaunakS29/QuantiumDAVEP_Project/wiki/2.-Code-Files" target="_blank"><img src="https://img.shields.io/badge/-View%20Code-brightgreen" alt="View Code" height="30" width="100"></a>
-<a href="https://github.com/ShaunakS29/CricketRHFT_Project/wiki/3.-Report" target="_blank"><img src="https://img.shields.io/badge/-View%20Report-yellowgreen" alt="View Report" height="30" width="100"></a>
+<a href="https://github.com/ShaunakS29/QuantiumDAVEP_Project/wiki/3.-Report" target="_blank"><img src="https://img.shields.io/badge/-View%20Report-yellowgreen" alt="View Report" height="30" width="100"></a>
 ***
 
 Contact: 
